@@ -11,5 +11,3 @@
 - C++
 - Java
 - JavaScript
-- TypeScript
-
